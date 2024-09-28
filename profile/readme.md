@@ -1,6 +1,6 @@
 # Stay in the know with the latest in yacht marketing
 
-## [Join the WhatsApp Group Today](https://chat.whatsapp.com/EmDyYGcirSt9Ekd5tSBM6h)
+[Join the WhatsApp Group Today](https://chat.whatsapp.com/EmDyYGcirSt9Ekd5tSBM6h)
 
 ## Yacht Sync Pro
 
