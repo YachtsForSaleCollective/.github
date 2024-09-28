@@ -2,9 +2,7 @@
 
 [Join the WhatsApp Group Today](https://chat.whatsapp.com/EmDyYGcirSt9Ekd5tSBM6h)
 
-## Yacht Sync Pro
-
-## Yachting MLS WordPress Plugin
+## Yacht Sync Pro - Yachting MLS WordPress Plugin
 
 **MLS Intergrations**
 
