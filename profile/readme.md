@@ -14,6 +14,6 @@ Start with search forms, results, compare tools, pdf tools, and mobile compatibl
 
 **Powerful Search**
 
-Enjoy a fast return on results and great keyword searching abities while staying SEO friendly.
+Enjoy a fast return on results and great keyword searching abilities while staying SEO-friendly.
 
 Checkout Our [Demo](https://yspdemo.yachtsforsale.dev/) And [Code](https://github.com/YachtsForSaleCollective/yacht-sync-pro-wordpress-plugin)!
