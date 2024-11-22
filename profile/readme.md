@@ -4,9 +4,9 @@
 
 ## Yacht Sync Pro - Yachting MLS WordPress Plugin
 
-**MLS Intergrations**
+**MLS Integrations**
 
-Sync inventory data with all thee marjor MLSs from the boating and yachting: YachtWorld/Boat Wizard, IYBA/YachtBroker, and Yatco.
+Sync inventory data with all three major MLSs for boating and yachting: YachtWorld/Boat Wizard, IYBA/YachtBroker, and Yatco.
 
 **Starter Templates**
 
