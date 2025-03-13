@@ -6,4 +6,4 @@ Sync inventory data with all three major MLSs for boating and yachting: YachtWor
 
 Enjoy a fast return on results and great keyword searching abilities while staying SEO-friendly.
 
-Checkout Our [Demo](https://yspdemo.yachtsforsale.dev/)
+Checkout Our [Demo](https://demo.yachtsforsale.dev/)
